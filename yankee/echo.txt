@@ -1,1 +1,3 @@
 Ei voi olla totta. Toinen hakemisto!
+
+Toinenkin ylimääräinen rivi tekstiä.
